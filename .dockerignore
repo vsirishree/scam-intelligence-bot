@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+.env
+.git
+.gitignore
+node_modules
+venv
+.env
+.cache
+models
+*.pt
